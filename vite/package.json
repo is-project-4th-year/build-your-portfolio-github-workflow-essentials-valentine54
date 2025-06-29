@@ -14,7 +14,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -b gh-pages -r https://github.com/is-project-4th-year/build-your-portfolio-github-workflow-essentials-valentine54.git"
+    "deploy": "gh-pages -d dist"
+    
 
   },
   "dependencies": {
