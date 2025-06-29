@@ -9,7 +9,8 @@ export default defineConfig({
   base: `/${repoName}/`,
   plugins: [
     react(),
-    tailwindcss()
+    tailwindcss(),
+    // base: "/"
   ],
     
   
