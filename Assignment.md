@@ -2,39 +2,54 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Valentine Wanjiku
+- **Admission Number**: 151775
+- **GitHub Username**: valentine54
+- **Email**: wanjiku.valentine@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+  [Live Site](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-valentine54/)
 
 ## 3. Learnings from the Git Crash Program
 
 Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
-For each one, mention:
 
-What you thought it would be like **(Expectation 👀)**
-
-What you actually learned **(Reality 😅)**
-
-And how it helped with your personal portfolio project 💻
-
-make it honest—and if it surprised you, even better!
-
-Example format:
 
 **🧠 What I Thought I'd Learn vs What I Actually Learned**
-**1. Concept: Branching**
 
-`Expectation 👀` : I thought branching was just for developers working on big apps—nothing I’d need for a small project.
+**1. Concept: Commit Messages**
+`Expectation 👀` : I thought commit messages were just quick notes like "fixed stuff" that only I would see.
 
-`Reality 😅`: Turns out even solo devs need branches! It helped me avoid breaking my main code while testing new designs.
+`Reality 😅`: Proper commit messages are crucial documentation! They help future-you and collaborators understand why changes were made.
 
-`Impact 💡`: I created a feature branch for my "About Me" section and merged it smoothly into the main branch after testing. Super useful!
+`Impact 💡`: Now I write descriptive messages like "fix: resolve mobile menu overflow issue #123" following conventional commits.
+
+**2. Concept: Pull Requests**
+
+`Expectation 👀` : I assumed PRs were only for teams to review each other's code.
+
+`Reality 😅`: PRs are valuable even solo - they force me to review my own changes before merging.
+
+`Impact 💡`: I caught 3 styling bugs by creating PRs for my own features and reviewing the diff carefully.
+
+
+**3. Concept: Git Rebase**
+
+`Expectation 👀` : I thought rebase was some dangerous advanced feature I'd never need.
+
+`Reality 😅`: Rebasing helps maintain a clean, linear history by incorporating upstream changes.
+
+`Impact 💡`: I used git rebase -i to squash 5 messy commits into one coherent feature addition.
+
+**4. Concept: .gitignore**
+
+`Expectation 👀` : I assumed Git automatically knew which files to exclude from tracking.
+
+`Reality 😅`: Without .gitignore, I always committed node_modules and API keys!
+
+`Impact 💡`: Now my .gitignore has patterns for dependencies, env files and IDE configs - keeping my repo clean.
 
 ## 4. Screenshots of Key GitHub Features
 
