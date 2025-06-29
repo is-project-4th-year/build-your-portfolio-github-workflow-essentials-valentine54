@@ -32,6 +32,8 @@ const AboutMe = () => {
           Hello! My name is Valentine Wanjiku. I'm a passionate Computer Science student at Strathmore University in Nairobi, Kenya.<br />
 
 I enjoy bringing ideas to life through clean, functional, and creative code. My interests lie in software development, web design, and cybersecurity. I'm also interested in learning more about DevOps. Whether I'm building web apps, solving bugs, or exploring UI/UX design, I’m always eager to learn and grow.
+I enjoy bringing ideas to life through clean, functional, and creative code. My interests lie in software development, web design, and cybersecurity. <br />
+Whether I'm building web apps, solving bugs, or exploring UI/UX design, I’m always eager to learn and grow.
 
 I believe in the power of technology to make life beter and I’m excited to be part of the future that shapes it. Let’s build something meaningful together!
 

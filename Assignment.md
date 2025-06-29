@@ -14,9 +14,6 @@
 
 ## 3. Learnings from the Git Crash Program
 
-Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
-
-
 **🧠 What I Thought I'd Learn vs What I Actually Learned**
 
 **1. Concept: Commit Messages**
@@ -53,9 +50,9 @@ Write about **4 things** you expected to learn during the Git crash course (yes,
 
 ## 4. Screenshots of Key GitHub Features
 
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
+In this section, I have included screenshots that demonstrate how I have used GitHub to manage my project. In addition, for each screenshot, I have written a short caption explaining what it shows.
 
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
+>The images are uploaded in the images folder, hence I will reference them here using markdown image syntax:
 
 ### A. Milestones and Issues
  
@@ -83,4 +80,6 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+![resolvedMerge](images/resolvedmerge.png)
+
+- This is a screenshot of a resolved merge conflict my local GitHub Desktop showing that there are 0 conflicts remaining in Assignment.md file and the complete merge button once pressed will automatically accept the update.
