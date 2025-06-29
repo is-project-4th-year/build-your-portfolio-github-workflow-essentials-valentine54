@@ -56,27 +56,30 @@ Write about **4 things** you expected to learn during the Git crash course (yes,
 Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
 
 > Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
-
-```markdown
-![Caption](path/to/your/image.png)
-```
 
 ### A. Milestones and Issues
+ 
+![Milestone&Issues](images/portfolio1.png)
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+-  This screenshot shows the project's milestones and related issues in GitHub. It highlights how I organized my tasks into phases and used issues to track progress. The key deliverables were: About Me Section, Education, Projects, Skills and Experience
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![ProjectBoard](images/projectboard.png)
+
+- This screenshot displays the GitHub Project Board used for tracking progress. It shows that 4 issues in the To Do column (yet to be started), 1 issue in the In Progress column (currently being worked on), and 9 issues in the Done column (successfully completed).
 
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
+![branches](images/branches.png)
+
+-  This screenshot shows the list of branches used in the project. Each branch is named meaningfully according to the section it implements. The branches include:feature/2-about-me, feature/3-education, feature/4-projects, feature/5-skills, feature/6-experience and feature/documentation
 
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+![pullRequest](images/pullRequest.png)
+
+- Merged Pull Request #16 showing feature implementation with linked issue #10 responsible for adding project section in the portfolio thus demonstrating connection between issues.
 
 ### E. Merge Conflict Resolution
 
