@@ -10,7 +10,7 @@
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  [Live Site](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-valentine54/)
+  [Valentine's Portfolio](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-valentine54/)
 
 ## 3. Learnings from the Git Crash Program
 
