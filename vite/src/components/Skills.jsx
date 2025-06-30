@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Skills() {
   const skillGroups = {
-    "Programming Languages": ["Python/Djano", "JavaScript", , "Kotlin"],
+    "Programming Languages": ["Python/Django", "JavaScript", , "Kotlin"],
     "Tools & Platforms": ["Git", "GitHub", "Postman", "Figma", "Firebase"],
     "Web Development": ["HTML", "CSS", "React", "Tailwind CSS", "Django", "Vite"],
     // "Mobile Development": ["Kotlin", "Jetpack Compose", "Android Studio"],
