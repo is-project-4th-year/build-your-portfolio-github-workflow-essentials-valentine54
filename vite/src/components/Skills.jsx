@@ -2,11 +2,11 @@ import React from 'react';
 
 export default function Skills() {
   const skillGroups = {
-    "Programming Languages": ["Python", "JavaScript", "Java", "Kotlin", "C"],
+    "Programming Languages": ["Python/Dj", "JavaScript", , "Kotlin"],
     "Web Development": ["HTML", "CSS", "React", "Tailwind CSS", "Django", "Vite"],
-    "Mobile Development": ["Kotlin", "Jetpack Compose", "Android Studio"],
-    "Tools & Platforms": ["Git", "GitHub", "Linux", "Postman", "Figma", "Firebase"],
-    "Others": ["Network Configuration", "Cybersecurity", "LaTeX", "Version Control"]
+    // "Mobile Development": ["Kotlin", "Jetpack Compose", "Android Studio"],
+    "Tools & Platforms": ["Git", "GitHub", "Postman", "Figma", "Firebase"],
+    "Others": ["Network Configuration", "Cybersecurity", "Version Control"]
   };
 
   return (
